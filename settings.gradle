@@ -1,0 +1,3 @@
+include ':atome_lib'
+include ':app'
+rootProject.name = "atome-sdk-android"

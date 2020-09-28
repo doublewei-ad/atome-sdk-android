@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="atome-sdk-android/app" />
+      <module fileurl="file://$PROJECT_DIR$/atome-sdk-android.iml" filepath="$PROJECT_DIR$/atome-sdk-android.iml" group="atome-sdk-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atome_lib/atome_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/atome_lib/atome_lib.iml" group="atome-sdk-android/atome_lib" />
+    </modules>
+  </component>
+</project>
