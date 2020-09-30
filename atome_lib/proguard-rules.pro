@@ -19,4 +19,12 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
--keep public class com.atome.sdk.**{*;}
+-keep public class com.atome.sdk.AtomeSDK{
+   public void *(android.app.Application);
+   public void *(java.lang.String);
+}
+
+-keepclassmembers public class com.atome.sdk.AtomeSDK{
+  public <init>();
+  public static <fields>;
+}
